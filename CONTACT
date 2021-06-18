@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Noah-Hatzi!
+- 👀 I’m interested in: Gui- and Textbased Applications and Programs
+- 🌱 I’m currently learning: Python
+- 📫 How to reach me: noah.hatzi@gmail.com
