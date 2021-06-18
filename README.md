@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Noah-Hatzi!
-- 👀 I’m interested in: Gui- and Textbased Applications and Programs
-- 🌱 I’m currently learning: Python
-- 📫 How to reach me: noah.hatzi@gmail.com
+This version is based on the original source code made by https://github.com/BOT-HAT.
+
+sorry to disappoint you but this version is still in development...
